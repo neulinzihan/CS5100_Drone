@@ -1,0 +1,45 @@
+﻿🔹 Bi-Week 1 (Feb 28 – Mar 12) → Research, Planning, and Basic Development
+
+ Initial Setup and Research
+• Research on multi-agent systems, distance-optimization algorithms, and existing drone deployment techniques.
+• Define project scope, objectives, and assign roles and responsibilities within the team.
+• Setup development environment and tools.
+
+ Basic System Development
+• Implement basic drone movement and grid-based simulation environment.
+• Develop initial drone positioning logic and obstacle detection.
+
+🔹 Bi-Week 2 (Mar 13 – Mar 26) → Enhanced Functionality and System Integration
+
+ Enhanced Drone Logic
+• Implement adaptive drone positioning based on user density and signal strength.
+• Develop RF detection for identifying human presence and integrate random sweeps for dynamic user detection.
+
+ System Integration and Testing
+• Begin integrating communication protocols between drones.
+• Conduct initial tests to assess functionality and make necessary adjustments based on outcomes.
+
+?? Bi-Week 3 (Mar 27 – Apr 9) → Advanced Features and Optimization
+
+ Advanced Features
+• Implement battery monitoring and management.
+• Introduce relay vehicles for extended coverage, integrated with drone battery levels.
+• Develop 3D mapping for terrain navigation.
+
+ System Optimization and Testing
+• Optimize decision-making algorithms for drones.
+• Conduct extensive simulations to test multi-agent coordination and relay vehicle deployments.
+• Begin writing the project report, focusing on methodology and initial results.
+
+🔹 Bi-Week 4 (Apr 10 – Apr 18) → Final Testing, Documentation, and Presentation
+
+ Final Testing and Refinements
+• Perform final system validation and stress tests.
+• Refine drone algorithms and improve system reliability based on test results.
+
+ Final Documentation and Presentation
+• Complete the final project report, detailing challenges, solutions, and performance metrics.
+• Prepare and refine presentation materials and demos.
+• Conduct final team reviews and prepare for in-class presentation.
+
+
