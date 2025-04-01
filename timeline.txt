@@ -19,7 +19,7 @@
 • Begin integrating communication protocols between drones.
 • Conduct initial tests to assess functionality and make necessary adjustments based on outcomes.
 
-?? Bi-Week 3 (Mar 27 – Apr 9) → Advanced Features and Optimization
+🔹 Bi-Week 3 (Mar 27 – Apr 9) → Advanced Features and Optimization
 
  Advanced Features
 • Implement battery monitoring and management.
